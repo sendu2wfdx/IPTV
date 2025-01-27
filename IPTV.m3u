@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1
-http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
@@ -11,6 +9,8 @@ http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
@@ -35,8 +35,6 @@ http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+
-http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
